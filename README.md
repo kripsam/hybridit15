@@ -24,14 +24,14 @@ Uhrzeit	| Thema
 --------|:---------------------------------
 09:00 	| Vorstellung, Agenda & Organisation 
 10:00	| Vorbereitung
-*10:40*	| *1. Kaffepause*
+*10:40*	| *1. Kaffeepause*
 11:00	| [Modul 1: Einführung in Microsoft Azure](Modul1/)
 12:00	| [Modul 2: Hybride Infrastrukturen](Modul2/)
 13:00	| *Mittagspause*
 14:00	| [Modul 3: Kosten & Sicherheit](Modul3/)
 14:30	| [Modul 4: Hybride Automatisierung & Verwaltung](Modul4/)
 *15:30*	| *Zeit für Feedback*
-*15:40*	| *2. Kaffepause*
+*15:40*	| *2. Kaffeepause*
 16:00	| [Modul 5: Disaster Recovery & Backups](Modul5/)
 16:30	| [Abschluss, Tipps & Fragen](Abschluss/)
 17:00	| Ende des IT Camps
@@ -51,11 +51,13 @@ An allen Teilnehmer-Laptops können Sie sich mit den folgenden Zugangsdaten anme
 Benutzername: Administrator  
 Passwort: Passw0rd!
 
+Danach Kurz-Link auf diese Seite: [aka.ms/hybriditde](http://aka.ms/hybriditde) 
+
 ## Microsoft-Konten
 
 Microsoft-Konten werden im IT Camp gestellt. Sie haben das Format:
 
-ith15-0XX@outlook.com, wobei XX durch zwei Ziffern zu ersetzen sind.
+ith15-XXX@outlook.com, wobei XXX durch drei Ziffern zu ersetzen sind.
 
 Die Passworte werden am Anfang der Veranstaltung kommuniziert. Am besten aufschreiben. ;-)
 
@@ -77,7 +79,7 @@ Twitter: http://www.twitter.com/peterkirchner
 
 ## Weiterführende Information
 Kurz-Link auf diese Seite: [aka.ms/hybriditde](http://aka.ms/hybriditde)  
-[Alle Präsenationen zur Ansicht oder zum Download](https://docs.com/peterkirchner/7623/it-camps-hybrid-it-2015)
+[Alle Präsentationen zur Ansicht oder zum Download](https://docs.com/peterkirchner/7623/it-camps-hybrid-it-2015)
 
 [Übersicht über alle aktuellen IT Camps](http://aka.ms/itcamps2015)  
 [Arbeitsmaterialien vom IT Camp Hybrid des letzten Jahres](http://spickzettel.azurewebsites.net/)
